@@ -4,7 +4,10 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-This project involves using a dataset from the LLM-EvaluationHub to evaluate and compare the effectiveness of different language models in detecting harmful prompts. Participants are expected to implement at least two models, perform data visualization, and analyze which model best identifies harmful content.
+This project focuses on evaluating and comparing the effectiveness of different language models in detecting harmful prompts. Using a dataset from LLM-EvaluationHub, the project involves performing exploratory data analysis, implementing at least two language models, and analyzing their performance in identifying harmful content. The goal is to determine which models are most accurate and effective in this critical task.
+
+## Data source:
+    https://www.kaggle.com/datasets/strikoder/llm-evaluationhub/data
 
 ## Project Organization
 

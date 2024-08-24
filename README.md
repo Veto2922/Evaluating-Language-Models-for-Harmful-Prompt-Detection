@@ -1,8 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e7ce23f-4b4d-4699-a3ec-f1dd23639f52)Here’s a README report based on your analysis and the contents of the notebooks:
-
----
-
-# README Report: Evaluation of Language Models for Harmful Prompt Detection
+# Evaluation of Language Models for Harmful Prompt Detection
 
 ## Overview
 

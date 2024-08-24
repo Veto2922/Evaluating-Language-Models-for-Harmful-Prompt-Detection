@@ -4,7 +4,8 @@
 
 This project evaluates and compares three language models—**Gemini_pro**, **AI2_j2-ultra**, and **Gemini_flash**—for their effectiveness in detecting harmful content in text prompts. The evaluation includes model predictions on a stratified sample of prompts and performance metrics, including accuracy, precision, recall, and F1 score. The project aims to determine the best model for detecting offensive content.
 
-### Please check the notebook folder to see all the codes
+### Please refer to the notebook folder to view all the code.
+
 
 ## 1. Data Preparation
 

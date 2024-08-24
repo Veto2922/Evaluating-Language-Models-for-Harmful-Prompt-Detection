@@ -7,8 +7,8 @@ This project evaluates and compares three language models—**Gemini_pro**, **AI
 ## 1. Data Preparation
 
 ### Data Source
-- **Input Data Path**: `..\data\processed\03-final_data_v2.csv`
-- **Output Data Path**: `..\data\processed\04-models_results.csv`
+- ** https://www.kaggle.com/datasets/strikoder/llm-evaluationhub/data
+
 
 ### Data Description
 The dataset consists of text prompts categorized into different ethical categories. It includes columns such as:
